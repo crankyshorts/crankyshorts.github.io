@@ -1,1 +1,1 @@
-# jflip.me
+Hello, and welcome to my portfolio site! My name is Jesse Flippen, I am a passionate learner and aspiring developer that is working on a BA in computer science degree from UTD. Check out my projects page and shoot me a message to let me kno wwhat you think!
